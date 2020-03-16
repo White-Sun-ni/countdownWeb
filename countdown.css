@@ -4,7 +4,7 @@
 }
 
 body{
-    background: #000 url(images/photo-of-two-houses-near-body-of-water-2466503.jpg);
+    background: #000 url(photo-of-two-houses-near-body-of-water-2466503.jpg);
     background-attachment: fixed;
 }
 
@@ -14,7 +14,7 @@ body{
     left: 100px;
     right: 100px;
     bottom: 80px;
-    background: url(images/photo-of-two-houses-near-body-of-water-2466503.jpg);
+    background: url(photo-of-two-houses-near-body-of-water-2466503.jpg);
     background-attachment: fixed;
     display: flex;
     justify-content: center;
